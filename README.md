@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=mrezkys alt=mrezkys /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=RamaAlqdri alt=RamaAlqdri /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=RamaAlqdri&show_icons=true&include_all_commits=true)](https://github.com/RamaAlqdri/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamaAlqdri&layout=compact)](https://github.com/RamaAlqdri/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ramaalqdri&show_icons=true&include_all_commits=true)](https://github.com/ramaalqdri/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramaalqdri&layout=compact)](https://github.com/ramaalqdri/github-readme-stats)
