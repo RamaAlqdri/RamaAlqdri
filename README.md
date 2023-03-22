@@ -1,4 +1,4 @@
-## Hey 👋, This is Ramadhani Al-Qadri
+## Hey 👋,This is Ramadhani Al-Qadri
 [![Gmail Badge](https://img.shields.io/badge/-ramadhanialqadri12@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ramadhanialqadri12@gmail.com)](mailto:ramadhanialqadri12@gmail.com) [![Github Badge](https://img.shields.io/badge/-RamaAlqdri-grey?style=flat&logo=github&logoColor=white&link=https://github.com/RamaAlqdri/)](https://www.github.com/RamaAlqdri/) <p align='left'>I am a new student in the department of informatics engineering. I love programming, I also love designing.</p>
 Here are some ideas to get you started:
 
