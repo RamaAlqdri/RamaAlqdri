@@ -8,7 +8,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=RamaAlqdri alt=RamaAlqdri /> </p>
+<!-- <p align=left> <img src=https://komarev.com/ghpvc/?username=RamaAlqdri alt=RamaAlqdri /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ramaalqdri&show_icons=true&include_all_commits=true)](https://github.com/ramaalqdri/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramaalqdri&layout=compact)](https://github.com/ramaalqdri/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramaalqdri&layout=compact)](https://github.com/ramaalqdri/github-readme-stats) -->
+
+<p align="center"><img src="https://www.codewars.com/users/ramaalqdri/badges/large"/><br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=ramaalqdri&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramaalqdri&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramaalqdri&layout=compact&theme=monokai&langs_count=12"/><br />
+</p>
